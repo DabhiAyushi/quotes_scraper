@@ -85,8 +85,8 @@ data/quotes.db
 ## Run Django Web Application
 
 cd webapp
-python3 manage.py migrate
-python3 manage.py runserver
+python manage.py migrate
+python manage.py runserver
 
 Open:
 http://127.0.0.1:8000/
